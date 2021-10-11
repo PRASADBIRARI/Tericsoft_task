@@ -1,6 +1,7 @@
 .NavbarIcon__Main{
     /* background-color: #848080; */
-    background-color: #303030;
+    background-color: rgb(154, 154, 154);
+
     /* border:2px solid blue; */
     box-shadow: 0px 0px 1px white;
     width: 100%;
@@ -11,7 +12,7 @@
     
 }
 .NavbarIcon__Main:hover{
-    background-color: rgb(154, 154, 154);
+    background-color: #303030;
 }
 
 .NavbarIcon__Main>img{
