@@ -5,11 +5,11 @@ If we do changes in the backend server(images, Icons, etc) dynamically all the d
 
  ![Tericsoft_task](https://i.ibb.co/zR650tn/Screenshot-2021-10-11-at-4-20-08-PM.png)
 
-## libraries used
+## Libraries:-
 Navigation Bar - FlatIcons. (FontAwesome Icons were paid Icons) Those Icons were hosted in Imgur, and those Icon's links were stored in backend.<br/> 
 Images - https://placeholder.com  These image links were stored in Backend Server.
 
-## Backend Server - Heroku mockServer
+## Backend Server - Postman mockServer
 
 ## `git clone`
 open git bash and do `https://github.com/PRASADBIRARI/Tericsoft_task` to clone this repository.
