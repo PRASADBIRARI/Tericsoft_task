@@ -36,3 +36,4 @@ export const getAllData = () => (dispatch) => {
     //   dispatch(FetchFailure());
     // });
 };
+

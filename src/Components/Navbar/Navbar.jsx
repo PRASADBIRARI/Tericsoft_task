@@ -13,6 +13,7 @@ function Navbar() {
   useEffect(() => {
     getData();
   }, []);
+  // console.log(data);
   const getData = () => {
     dispatch(getAllData());
   };

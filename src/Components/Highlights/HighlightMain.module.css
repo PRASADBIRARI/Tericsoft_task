@@ -23,7 +23,8 @@
     position: absolute;
     bottom: 18px;
     left: 16px;
-    border:2px solid red;
+    border:2px solid rgb(39, 25, 10);
+    box-shadow: 0px 0px 10px rgb(175, 29, 29);
 
 }
   

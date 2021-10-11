@@ -9,6 +9,3 @@ const rootreducer = combineReducers({
 const store = createStore(rootreducer, compose(applyMiddleware(thunk)));
 
 export default store;
-
-
-
