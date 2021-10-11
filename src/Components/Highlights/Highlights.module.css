@@ -1,0 +1,24 @@
+.Highlights__main{
+    display: flex;
+    justify-content: space-evenly;
+}
+.Highlights__main_img:hover{
+    transition: 0.5s;
+    transform: scale(1.1);
+}
+
+.Highlights__main_img{
+    box-shadow: -5px -5px 10px rgb(188, 175, 175);
+
+}
+.Highlights__cont{
+    position: relative;
+}
+
+.bottom_left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    border:2px solid red;
+  }
+  
